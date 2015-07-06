@@ -13,3 +13,5 @@ According to Energous Corporation, that day is just around the corner. Energous�
 There are several companies approaching this same problem in different ways. Nikola Labs presented at TechCrunch Disrupt a couple years back with the same idea – turning radio frequency signals into battery power. Energous told us that their tech could be ready for the consumer market possibly this next year.
 
 We went to the company’s San Jose headquarters to take a look at how it works.
+
+<blockquote>Credits: <a href="http://techcrunch.com">Techcrunch</a></blockquote>
