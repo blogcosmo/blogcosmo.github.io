@@ -9,7 +9,7 @@ permalink:           /:title
 
 # Setup
 title:               BLOGCOSMO
-tagline:             'Blog like an hacker'
+tagline:             'Blog like a hacker'
 description:         'Just a personal blogging site'
 url:                 http://blogcosmo.github.io
 baseurl:             /
