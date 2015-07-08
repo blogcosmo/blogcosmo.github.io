@@ -14,4 +14,4 @@ By 1964, BASIC had been invented, and then C was released in 1969. Unix was famo
 For the rest of the history of modern programming languages — because C was really just the beginning! — check out the infographic below. You can click it to zoom in.
 
 <img src="/img/ii.jpg">
-<blockquote>Image source: <a href="http://www.extremetech.com/computing/91572-the-evolution-of-computer-languages-infographic">Extreme Tech</a></blockquote>>
+<blockquote>Image source: <a href="http://www.extremetech.com">Extreme Tech</a></blockquote>>
